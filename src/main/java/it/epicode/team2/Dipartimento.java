@@ -16,6 +16,7 @@ public class Dipartimento extends Dipendente {
     private String amministrazione;
     private String produzione;
     private String vendite;
+    
 
 
 }

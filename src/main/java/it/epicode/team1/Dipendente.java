@@ -13,4 +13,5 @@ public class Dipendente {
     private String matricola;
     private double stipendio;
 
+
 }
